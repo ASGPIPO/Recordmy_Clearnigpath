@@ -1,0 +1,4 @@
+﻿  计算器.c
+D:\004-code\计算器\计算器\计算器.c(95): warning C4716: “kaifang”: 必须返回一个值
+D:\004-code\计算器\计算器\计算器.c(103): warning C4716: “quyu”: 必须返回一个值
+  计算器.vcxproj -> D:\004-code\计算器\x64\Debug\计算器.exe
